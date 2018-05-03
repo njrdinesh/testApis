@@ -2,8 +2,8 @@
     {
         "AppVersionID": 13,
         "OSType": 2,
-        "AppVersionCode": "26",
-        "AppVersionName": "3.2.1",
+        "AppVersionCode": "25",
+        "AppVersionName": "3.1.1",
         "OSMinVersion": "5.0",
         "UpdateType": 1,
         "UpdateMessage": "Some Info",
